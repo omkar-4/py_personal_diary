@@ -1,0 +1,3 @@
+# Add the new tab button to the frame/menu-bar
+    self.new_tab_button = ttk.Button(frame, text="New Tab", command=self.create_new_tab)
+
